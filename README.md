@@ -17,7 +17,7 @@ score.
 Press "Play Game" on the screen to begin
 
 1. To move around the court use the arrow keys. Each arrow corresponds to 
-the direction the player will move in.
+the direction the player will move in.  
 ^ Forward  
 > Right  
 V Back  
