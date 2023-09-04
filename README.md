@@ -6,14 +6,14 @@ Bhoopi is a first person basketball shootaround game made with the Unity game en
 * [Technologies](#technologies)
 
 ## General Info
-### Description:
+### Description
 Bhoopi is a first person basketball game made with Unity. It is a single
 player game where the player can move around the court and attempt to make
 shots. On the top left corner of the screen is a counter that allows the
 player to keep track of shots made. Each shot adds two points to the player
 score.
 
-### How To Play:
+### How To Play
 Press "Play Game" on the screen to begin
 
 1. To move around the court use the arrow keys. Each arrow corresponds to 
