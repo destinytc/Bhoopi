@@ -29,5 +29,5 @@ V Back
 
 ## Technologies
 Project is created with:
-Unity version: 2020.3.25f1  
-C# version: 9.0
+* Unity version: 2020.3.25f1  
+* C# version: 9.0
